@@ -1,3 +1,5 @@
+# A nice job
+
 # Customer Segmentation Machine Learning Project Using K-Means Clustering Algorithm
 
 This repository contains the code and data for a customer segmentation project that uses the K-Means clustering algorithm. The goal of this project is to group customers based on their age, annual income, and spending score, allowing businesses to better understand their customer base and tailor marketing strategies to specific segments.
